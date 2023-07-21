@@ -6,11 +6,11 @@ import { AppProviders } from './providers/app-providers';
 function App() {
   return (
     <AppProviders>
-      <div className='App'>
+      <div className="App">
         {/* <MuiMode></MuiMode> */}
-        <User/>
+        <User />
       </div>
-    </AppProviders>    
+    </AppProviders>
   );
 }
 

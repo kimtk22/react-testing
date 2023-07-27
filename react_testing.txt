@@ -25,7 +25,7 @@ Jest =====================================================================
 	- describe()
 	
 6. file name convention
-	- Greet.text.jsx
+	- Greet.test.jsx
 	- Greet.spec.jsx
 	_ __test__ 폴더
 
